@@ -30,6 +30,10 @@
         <img src="./images/trapezoid.svg" alt="trapezoid image" />
       </div>
       <br />
+      <div class="page-content">Formula</div>
+      <br />
+      <div class="page-content">A = [(a + b) / 2] x h</div>
+      <br />
       <div class="page-content">Enter the bases and height in mm.</div>
       <div class="page-content-php">
         <form action="answer.php" method="POST">
